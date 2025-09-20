@@ -25,7 +25,7 @@ I also acknowledge the support of RISC-V International, India Electronics and Se
 
 | Week 0 | Week 1 | Week 2 |
 |--------|--------|--------|
-| ![Week 0](https://img.shields.io/badge/Week%200-Setup-blue) | ![Week 1](https://img.shields.io/badge/Week%201-In%20Coming Soon-yellow) | ![Week 2](https://img.shields.io/badge/Week%202-Upcoming-green) |
+| ![Week 0](https://img.shields.io/badge/Week%200-Setup-blue) | ![Week 1](https://img.shields.io/badge/Week%201-In%201-Coming Soon-yellow) | ![Week 2](https://img.shields.io/badge/Week%202-Upcoming-green) |
 
 ---
 
