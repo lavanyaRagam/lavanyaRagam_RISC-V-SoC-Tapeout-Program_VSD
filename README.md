@@ -1,5 +1,3 @@
-# lavanyaRagam_RISC-V-SoC-Tapeout-Program_VSD
-
 # 🖥️RISC-V Reference SoC Tapeout Program VSD
 
 In this program, I am learning to design a System-on-Chip (SoC) from RTL to GDSII using open-source tools. This initiative is part of India’s largest collaborative RISC-V tapeout program, enabling over 3500 participants to contribute to silicon innovation and strengthen the nation’s semiconductor ecosystem.
