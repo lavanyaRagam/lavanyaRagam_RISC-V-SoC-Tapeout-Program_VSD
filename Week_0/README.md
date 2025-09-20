@@ -44,8 +44,7 @@ make
 sudo make install
 
 ```
-
-![yosys_installation_done](Week_0/Images/yosys_installation_done.png)
+![Yosys](Images/yosys_installation_done.png)
 
 ## Installing Icarus Verilog (Iverilog) on Ubuntu
 
