@@ -22,7 +22,6 @@ I also acknowledge the support of RISC-V International, India Electronics and Se
 
 
 ## 📄 Weekly Review Sheet
-## 📅 Program Schedule
 
 | Week 0 | Week 1 | Week 2 |
 |--------|--------|--------|
