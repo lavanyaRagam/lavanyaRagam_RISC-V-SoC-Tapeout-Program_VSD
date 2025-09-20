@@ -57,7 +57,7 @@ sudo apt-get update
 # Install Iverilog
 sudo apt-get install iverilog -y
 ```
-![iverilog_installation_done](Week_0/Images/iverilog_installation_done.png)
+![iverilog](Images/iverilog_installation_done.png)
 
 ## Installing GTKWave on Ubuntu
 
@@ -71,5 +71,5 @@ sudo apt-get update
 sudo apt install gtkwave -y
 
 ```
-![gtkwave_installation_done](Week_0/Images/gtkwave_installation_done.png)
+![gtkwave](Images/gtkwave_installation_done.png)
 
